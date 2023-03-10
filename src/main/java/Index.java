@@ -1,5 +1,3 @@
-package readability;
-
 public class Index {
 
   Text text;

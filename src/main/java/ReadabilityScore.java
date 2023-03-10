@@ -1,5 +1,3 @@
-package readability;
-
 import java.util.HashMap;
 import java.util.Map;
 
